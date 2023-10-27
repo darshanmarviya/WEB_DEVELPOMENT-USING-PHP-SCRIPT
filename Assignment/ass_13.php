@@ -1,4 +1,4 @@
 <?php
-$person=array("name"=>"ABC","age"=>30,"email"=>"ABC30@gmail.com");
+$person=array("name"=>"DARSHAN","age"=>21,"email"=>"darshan@gmail.com");
 echo $person['age'];
 ?>
